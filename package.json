@@ -1,0 +1,24 @@
+{
+  "name": "todo-app-express",
+  "version": "1.0.0",
+  "description": "Todo Application using AJAX for Single Page Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xboudsady/todo-app-express.git"
+  },
+  "author": "Xayaseth Boudsady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xboudsady/todo-app-express/issues"
+  },
+  "homepage": "https://github.com/xboudsady/todo-app-express#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "jquery": "^3.5.0"
+  }
+}
